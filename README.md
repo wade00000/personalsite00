@@ -17,7 +17,9 @@ This website serves as a digital portfolio and introduction to myself. It showca
 ## Technologies Used
 
  **HTML:** For structuring the website's content.
+ 
  **CSS:** For styling the website and creating a visually appealing layout.
+ 
  **JavaScript:** For adding interactivity, such as toggling project details and dark mode.
 
 ## Getting Started
