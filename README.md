@@ -9,9 +9,13 @@ This website serves as a digital portfolio and introduction to myself. It showca
 **Key Features:**
 
  **About Me:** A section detailing my background and interests.
+ 
  **Projects:** A display of my projects with the ability to toggle detailed descriptions.
+ 
  **Contact:** Information on how to reach me.
+ 
  **Dark Mode Toggle:** A user-friendly option to switch between light and dark themes.
+ 
  **Responsive Design:** The website is designed to work across various screen sizes.
 
 ## Technologies Used
